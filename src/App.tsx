@@ -14,8 +14,8 @@ export default function App() {
       <ShaderBackground />
       <Hero />
       <About />
-      <TechStack />
       <Experience />
+      <TechStack />
       <Projects />
       <OpenSource />
       <Testimonials />
